@@ -1,4 +1,4 @@
-# Scripts and analyses results for the paper "Signatures of natural selection may indicate a genetic basis for the beneficial effects of oily fish intake in indigenous people from coastal Ecuador"
+# Scripts, raw results and plotting scripts used for the paper "Signatures of natural selection may indicate a genetic basis for the beneficial effects of oily fish intake in indigenous people from coastal Ecuador"
 
 ## data_processing_scripts 
 - NMfilter.py script to filter mapped reads for a maximum edit distance 
