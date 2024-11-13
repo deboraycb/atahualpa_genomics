@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="-277.708 -207.182 603.601 444.571">
+  <line x1="-2.47846px" y1="-0.494024px" x2="-16.5231px" y2="-3.29349px" style="stroke-opacity:0.75;stroke-linecap:butt;stroke:black;stroke-width:1.26361px"></line>
+  <line x1="2.48488px" y1="0.460656px" x2="26.3253px" y2="4.88029px" style="stroke-opacity:0.75;stroke-linecap:butt;stroke:black;stroke-width:1.26361px"></line>
+  <line x1="-2.04155px" y1="-1.4896px" x2="-254.055px" y2="-185.368px" style="stroke-opacity:0.75;stroke-linecap:butt;stroke:black;stroke-width:1.26361px"></line>
+  <line x1="30.7071px" y1="3.67101px" x2="68.2255px" y2="-29.3587px" style="stroke-opacity:0.75;stroke-linecap:butt;stroke:black;stroke-width:1.26361px"></line>
+  <line x1="30.0488px" y1="7.54386px" x2="66.94px" y2="73.1596px" style="stroke-opacity:0.75;stroke-linecap:butt;stroke:black;stroke-width:1.26361px"></line>
+  <line x1="70.6368px" y1="74.776px" x2="300.85px" y2="19.8439px" style="stroke-opacity:0.75;stroke-linecap:butt;stroke:black;stroke-width:1.26361px"></line>
+  <line x1="69.0913px" y1="77.7192px" x2="91.1488px" y2="134.673px" style="stroke-opacity:0.75;stroke-linecap:butt;stroke:black;stroke-width:1.26361px"></line>
+  <line x1="94.2808px" y1="138.238px" x2="124.179px" y2="154.526px" style="stroke-opacity:0.75;stroke-linecap:butt;stroke:black;stroke-width:1.26361px"></line>
+  <line x1="90.7351px" y1="139.18px" x2="44.9884px" y2="213.371px" style="stroke-opacity:0.75;stroke-linecap:butt;stroke:black;stroke-width:1.26361px"></line>
+  <g>
+    <circle cx="0px" cy="0px" r="2.52722px" style="fill:black;fill-opacity:0.75;stroke:white;stroke-width:0.631805px"></circle>
+  </g>
+  <g>
+    <circle cx="-24.7846px" cy="-4.94024px" r="8.42407px" style="fill:black;fill-opacity:0.75;stroke:white;stroke-width:0.631805px"></circle>
+    <text x="-24.7846px" y="-2.41302px" style="fill:black;fill-opacity:0.75;stroke-opacity:0.75;stroke:black;stroke-width:1.08309px;text-anchor:middle;font-size:7.58166px;font-family:Times,serif">1</text>
+    <text x="-24.7846px" y="-2.41302px" style="fill:white;text-anchor:middle;font-size:7.58166px;font-family:Times,serif">1</text>
+  </g>
+  <g>
+    <circle cx="28.8102px" cy="5.34094px" r="2.52722px" style="fill:black;fill-opacity:0.75;stroke:white;stroke-width:0.631805px"></circle>
+  </g>
+  <g>
+    <circle cx="74.5485px" cy="-34.9251px" r="8.42407px" style="fill:black;fill-opacity:0.75;stroke:white;stroke-width:0.631805px"></circle>
+    <text x="74.5485px" y="-32.3979px" style="fill:black;fill-opacity:0.75;stroke-opacity:0.75;stroke:black;stroke-width:1.08309px;text-anchor:middle;font-size:7.58166px;font-family:Times,serif">0</text>
+    <text x="74.5485px" y="-32.3979px" style="fill:white;text-anchor:middle;font-size:7.58166px;font-family:Times,serif">0</text>
+  </g>
+  <g>
+    <circle cx="68.1786px" cy="75.3625px" r="2.52722px" style="fill:black;fill-opacity:0.75;stroke:white;stroke-width:0.631805px"></circle>
+  </g>
+  <g>
+    <circle cx="309.044px" cy="17.8887px" r="8.42407px" style="fill:black;fill-opacity:0.75;stroke:white;stroke-width:0.631805px"></circle>
+    <text x="309.044px" y="20.4159px" style="fill:black;fill-opacity:0.75;stroke-opacity:0.75;stroke:black;stroke-width:1.08309px;text-anchor:middle;font-size:7.58166px;font-family:Times,serif">2</text>
+    <text x="309.044px" y="20.4159px" style="fill:white;text-anchor:middle;font-size:7.58166px;font-family:Times,serif">2</text>
+  </g>
+  <g>
+    <circle cx="92.0615px" cy="137.029px" r="2.52722px" style="fill:black;fill-opacity:0.75;stroke:white;stroke-width:0.631805px"></circle>
+  </g>
+  <g>
+    <circle cx="131.577px" cy="158.556px" r="8.42407px" style="fill:black;fill-opacity:0.75;stroke:white;stroke-width:0.631805px"></circle>
+    <text x="131.577px" y="161.084px" style="fill:black;fill-opacity:0.75;stroke-opacity:0.75;stroke:black;stroke-width:1.08309px;text-anchor:middle;font-size:7.58166px;font-family:Times,serif">4</text>
+    <text x="131.577px" y="161.084px" style="fill:white;text-anchor:middle;font-size:7.58166px;font-family:Times,serif">4</text>
+  </g>
+  <g>
+    <circle cx="40.567px" cy="220.541px" r="8.42407px" style="fill:black;fill-opacity:0.75;stroke:white;stroke-width:0.631805px"></circle>
+    <text x="40.567px" y="223.069px" style="fill:black;fill-opacity:0.75;stroke-opacity:0.75;stroke:black;stroke-width:1.08309px;text-anchor:middle;font-size:7.58166px;font-family:Times,serif">3</text>
+    <text x="40.567px" y="223.069px" style="fill:white;text-anchor:middle;font-size:7.58166px;font-family:Times,serif">3</text>
+  </g>
+  <g>
+    <circle cx="-260.86px" cy="-190.334px" r="8.42407px" style="fill:black;fill-opacity:0.75;stroke:white;stroke-width:0.631805px"></circle>
+    <text x="-260.86px" y="-187.806px" style="fill:black;fill-opacity:0.75;stroke-opacity:0.75;stroke:black;stroke-width:1.08309px;text-anchor:middle;font-size:7.58166px;font-family:Times,serif">5</text>
+    <text x="-260.86px" y="-187.806px" style="fill:white;text-anchor:middle;font-size:7.58166px;font-family:Times,serif">5</text>
+  </g>
+</svg>

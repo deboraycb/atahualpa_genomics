@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="-226.365 -454.896 368.171 674.408">
+  <line x1="-3.42291px" y1="-8.08347px" x2="-156.433px" y2="-369.429px" style="stroke-opacity:0.75;stroke-linecap:butt;stroke:black;stroke-width:4.38916px"></line>
+  <line x1="8.32842px" y1="-2.77423px" x2="55.5228px" y2="-18.4949px" style="stroke-opacity:0.75;stroke-linecap:butt;stroke:black;stroke-width:4.38916px"></line>
+  <line x1="-6.256px" y1="6.15803px" x2="-142.698px" y2="140.463px" style="stroke-opacity:0.75;stroke-linecap:butt;stroke:black;stroke-width:4.38916px"></line>
+  <g>
+    <circle cx="0px" cy="0px" r="8.77832px" style="fill:black;fill-opacity:0.75;stroke:white;stroke-width:2.19458px"></circle>
+  </g>
+  <g>
+    <circle cx="-167.843px" cy="-396.374px" r="29.2611px" style="fill:black;fill-opacity:0.75;stroke:white;stroke-width:2.19458px"></circle>
+    <text x="-167.843px" y="-387.596px" style="fill:black;fill-opacity:0.75;stroke-opacity:0.75;stroke:black;stroke-width:3.76214px;text-anchor:middle;font-size:26.335px;font-family:Times,serif">2</text>
+    <text x="-167.843px" y="-387.596px" style="fill:white;text-anchor:middle;font-size:26.335px;font-family:Times,serif">2</text>
+  </g>
+  <g>
+    <circle cx="83.2842px" cy="-27.7423px" r="29.2611px" style="fill:black;fill-opacity:0.75;stroke:white;stroke-width:2.19458px"></circle>
+    <text x="83.2842px" y="-18.964px" style="fill:black;fill-opacity:0.75;stroke-opacity:0.75;stroke:black;stroke-width:3.76214px;text-anchor:middle;font-size:26.335px;font-family:Times,serif">0</text>
+    <text x="83.2842px" y="-18.964px" style="fill:white;text-anchor:middle;font-size:26.335px;font-family:Times,serif">0</text>
+  </g>
+  <g>
+    <circle cx="-163.551px" cy="160.99px" r="29.2611px" style="fill:black;fill-opacity:0.75;stroke:white;stroke-width:2.19458px"></circle>
+    <text x="-163.551px" y="169.768px" style="fill:black;fill-opacity:0.75;stroke-opacity:0.75;stroke:black;stroke-width:3.76214px;text-anchor:middle;font-size:26.335px;font-family:Times,serif">1</text>
+    <text x="-163.551px" y="169.768px" style="fill:white;text-anchor:middle;font-size:26.335px;font-family:Times,serif">1</text>
+  </g>
+</svg>

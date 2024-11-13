@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="-106.414 -134.489 571.934 399.553">
+  <line x1="-0.832661px" y1="-2.58741px" x2="-5.55107px" y2="-17.2494px" style="stroke-opacity:0.75;stroke-linecap:butt;stroke:black;stroke-width:1.35904px"></line>
+  <line x1="2.48942px" y1="1.09123px" x2="78.9612px" y2="34.6123px" style="stroke-opacity:0.75;stroke-linecap:butt;stroke:black;stroke-width:1.35904px"></line>
+  <line x1="-2.32064px" y1="1.41515px" x2="-80.5577px" y2="49.1249px" style="stroke-opacity:0.75;stroke-linecap:butt;stroke:black;stroke-width:1.35904px"></line>
+  <line x1="83.2195px" y1="33.6398px" x2="205.891px" y2="-109.489px" style="stroke-opacity:0.75;stroke-linecap:butt;stroke:black;stroke-width:1.35904px"></line>
+  <line x1="83.2728px" y1="37.7204px" x2="155.076px" y2="117.195px" style="stroke-opacity:0.75;stroke-linecap:butt;stroke:black;stroke-width:1.35904px"></line>
+  <line x1="159.386px" y1="120.306px" x2="439.106px" y2="243.297px" style="stroke-opacity:0.75;stroke-linecap:butt;stroke:black;stroke-width:1.35904px"></line>
+  <line x1="158.295px" y1="121.543px" x2="190.393px" y2="175.126px" style="stroke-opacity:0.75;stroke-linecap:butt;stroke:black;stroke-width:1.35904px"></line>
+  <g>
+    <circle cx="0px" cy="0px" r="2.71809px" style="fill:black;fill-opacity:0.75;stroke:white;stroke-width:0.679522px"></circle>
+  </g>
+  <g>
+    <circle cx="-8.32661px" cy="-25.8741px" r="9.0603px" style="fill:black;fill-opacity:0.75;stroke:white;stroke-width:0.679522px"></circle>
+    <text x="-8.32661px" y="-23.156px" style="fill:black;fill-opacity:0.75;stroke-opacity:0.75;stroke:black;stroke-width:1.1649px;text-anchor:middle;font-size:8.15427px;font-family:Times,serif">4</text>
+    <text x="-8.32661px" y="-23.156px" style="fill:white;text-anchor:middle;font-size:8.15427px;font-family:Times,serif">4</text>
+  </g>
+  <g>
+    <circle cx="81.4507px" cy="35.7036px" r="2.71809px" style="fill:black;fill-opacity:0.75;stroke:white;stroke-width:0.679522px"></circle>
+  </g>
+  <g>
+    <circle cx="211.787px" cy="-116.368px" r="9.0603px" style="fill:black;fill-opacity:0.75;stroke:white;stroke-width:0.679522px"></circle>
+    <text x="211.787px" y="-113.65px" style="fill:black;fill-opacity:0.75;stroke-opacity:0.75;stroke:black;stroke-width:1.1649px;text-anchor:middle;font-size:8.15427px;font-family:Times,serif">2</text>
+    <text x="211.787px" y="-113.65px" style="fill:white;text-anchor:middle;font-size:8.15427px;font-family:Times,serif">2</text>
+  </g>
+  <g>
+    <circle cx="156.898px" cy="119.212px" r="2.71809px" style="fill:black;fill-opacity:0.75;stroke:white;stroke-width:0.679522px"></circle>
+  </g>
+  <g>
+    <circle cx="447.4px" cy="246.943px" r="9.0603px" style="fill:black;fill-opacity:0.75;stroke:white;stroke-width:0.679522px"></circle>
+    <text x="447.4px" y="249.662px" style="fill:black;fill-opacity:0.75;stroke-opacity:0.75;stroke:black;stroke-width:1.1649px;text-anchor:middle;font-size:8.15427px;font-family:Times,serif">1</text>
+    <text x="447.4px" y="249.662px" style="fill:white;text-anchor:middle;font-size:8.15427px;font-family:Times,serif">1</text>
+  </g>
+  <g>
+    <circle cx="195.049px" cy="182.899px" r="9.0603px" style="fill:black;fill-opacity:0.75;stroke:white;stroke-width:0.679522px"></circle>
+    <text x="195.049px" y="185.617px" style="fill:black;fill-opacity:0.75;stroke-opacity:0.75;stroke:black;stroke-width:1.1649px;text-anchor:middle;font-size:8.15427px;font-family:Times,serif">0</text>
+    <text x="195.049px" y="185.617px" style="fill:white;text-anchor:middle;font-size:8.15427px;font-family:Times,serif">0</text>
+  </g>
+  <g>
+    <circle cx="-88.2932px" cy="53.8421px" r="9.0603px" style="fill:black;fill-opacity:0.75;stroke:white;stroke-width:0.679522px"></circle>
+    <text x="-88.2932px" y="56.5602px" style="fill:black;fill-opacity:0.75;stroke-opacity:0.75;stroke:black;stroke-width:1.1649px;text-anchor:middle;font-size:8.15427px;font-family:Times,serif">3</text>
+    <text x="-88.2932px" y="56.5602px" style="fill:white;text-anchor:middle;font-size:8.15427px;font-family:Times,serif">3</text>
+  </g>
+</svg>
